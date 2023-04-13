@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+
+  --tc-name: #FFFFFF;
+  --tc-h1-p: hsla(240, 9%, 89%, 1);
+  ;
+
+  --ff-general: 'Roboto', sans-serif;
+}
+
+hide {
+  display: none;
+}
+
+h1, p {
+  color: var(--tc-h1-p);
+}
+
+body {
+  background: url("./assets/mountains-universe-1.png");
+  background-size: 100% 100%;
+  font-family: var(--ff-general);
+  /* display: grid; */
+  padding-bottom: 25rem;
+}
+
+nav {
+  margin-top: 4rem;
+  margin-left: 7.2rem;
+  display: flex;
+  align-items: center;
+  gap: 3.2rem;
+}
+
+a {
+  text-decoration: none;
+  font-size: 2.4rem;
+  line-height: 2.2rem;
+  font-weight: 400;
+  color: var(--tc-name);
+
+  cursor: pointer;
+  transition: all .4s;
+}
+
+a:hover {
+  font-weight: 700;
+}
+
+/* HOME */
+
+.home {
+  font-family: var(--ff-general);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin: auto;
+}
+
+h1 {
+  margin-top: 21.2rem;
+  font-weight: 700;
+  font-size: 4.8rem;
+  line-height: 125%;
+}
+
+button {
+  padding: 1.2rem 3.2rem;
+  background: transparent;
+  border: 2px solid #FFFFFF;
+  border-radius: .5rem;
+  color: var(--tc-name);
+  text-transform: uppercase;
+  font-family: var(--ff-general);
+  font-weight: 700;
+  font-size: 1.4rem;
+  line-height: 2.4rem;
+  margin-top: 2.4rem;
+
+  cursor: pointer;
+  transition: all .3s;
+}
+
+button:hover {
+  transform: scale(1.01);
+  border: 2px solid #2a8fbe;
+}
+
+/* UNIVERSE AND EXPLORATION */
+
+.container {
+  padding-left: 10.2rem;
+  width: 64.8rem;
+}
+
+#second {
+  margin-top: 11.3rem;
+}
+
+p {
+  margin-top: 1.6rem;
+  font-weight: 400;
+  font-size: 1.58rem;
+  line-height: 160%;
+  justify-content: left;
+}
