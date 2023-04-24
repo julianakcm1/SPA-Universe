@@ -59,7 +59,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :memo: Layout
 
-Para a visualização do layout do projeto, basta clicar no [link](https://www.figma.com/file/7pr0Ult19ZwN0NpOhxNt8G/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)?node-id=35-78&t=LdPJxEh6yLvFJK8I-0).
+Para a visualização do layout do projeto, basta clicar [aqui](https://www.figma.com/file/7pr0Ult19ZwN0NpOhxNt8G/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)?node-id=35-78&t=LdPJxEh6yLvFJK8I-0).
 
 </div>
 
