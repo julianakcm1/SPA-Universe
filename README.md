@@ -34,7 +34,8 @@ Para o desafio, foram usados novos conceitos, como:
 - Assíncrono e promises;
 - Orientação a objetos;
 - Classes;
-- Criação de um servidor local simples com NodeJs.
+- Criação de um servidor local simples com NodeJs;
+- Entre outros
 
 </div>
 
