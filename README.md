@@ -24,7 +24,7 @@
 
 <div id="-projeto">
 
-## :computer: Projeto
+## :computer: Project
 
 The application consists of a SPA with the Universe theme.
 
@@ -40,7 +40,7 @@ Concepts were used, such as:
 
 <div id="-tecnologias">
   
-## :rocket: Tecnologias
+## :rocket: Technologies
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -56,7 +56,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <div id="-contato">
 
-## :envelope: Contato
+## :envelope: Contact
 
 - E-mail: julianakcmelo@gmail.com
 - LinkedIn: https://www.linkedin.com/in/julianakcmelo/
