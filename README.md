@@ -2,16 +2,14 @@
 
 ![vector](https://user-images.githubusercontent.com/54086293/233876691-bc5f27d4-d225-4643-8ebb-21de71ba2d29.svg)
 
-# SPA-Universe
-Curso Explorer - Rocketseat - Stage 6 - Desafio 1
+# SPA Universe
 
 </div>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contato">Contato</a><br><br>
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contato">Contact</a><br><br>
 </p>
 
 <div align="center">
@@ -28,14 +26,15 @@ Curso Explorer - Rocketseat - Stage 6 - Desafio 1
 
 ## :computer: Projeto
 
-Para o desafio, foram usados novos conceitos, como:
-- Conceitos de SPA;
-- Mapeamento de rotas;
-- Assíncrono e promises;
-- Orientação a objetos;
+The application consists of a SPA with the Universe theme.
+
+Concepts were used, such as:
+- SPA concepts;
+- Route mapping;
+- Asynchronous and promises;
+- Object orientation;
 - Classes;
-- Criação de um servidor local simples com NodeJs;
-- Entre outros
+- Creation of a simple local server with NodeJs.
 
 </div>
 
@@ -51,15 +50,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Nodejs
 - Git
 - Github
-- Figma
-
-</div>
-
-<div id="-layout">
-
-## :memo: Layout
-
-Para a visualização do layout do projeto, basta clicar [aqui](https://www.figma.com/file/7pr0Ult19ZwN0NpOhxNt8G/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)?node-id=35-78&t=LdPJxEh6yLvFJK8I-0).
+- [Figma](https://www.figma.com/design/7pr0Ult19ZwN0NpOhxNt8G/SPA-UNIVERSE?node-id=104%3A48&t=49q6wYJOZSrAjrCt-1)
 
 </div>
 
